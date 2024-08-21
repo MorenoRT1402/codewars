@@ -1,3 +1,5 @@
+[6kyu - Optimum Coding School Location]
+
 Preface
 You are currently working together with a local community to build a school teaching children how to code. First plans have been made and 
 the community wants to decide on the best location for the coding school. In order to make this decision data about the location of students 
